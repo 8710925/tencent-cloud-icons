@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>增值电信-32px(蓝)</title>
+    <g id="增值电信-32px(蓝)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" fill="#0052D9" fill-rule="nonzero">
+            <g id="XMLID_2_" transform="translate(1.000000, 1.000000)">
+                <path d="M27.8,17 C26.8,23.2 21.5,28 15,28 C7.8,28 2,22.2 2,15 C2,7.8 7.8,2 15,2 C21.5,2 26.9,6.8 27.8,13 L29.8,13 C28.9,5.7 22.6,0 15,0 C6.7,0 0,6.7 0,15 C0,23.3 6.7,30 15,30 C22.6,30 28.9,24.3 29.9,17 L27.8,17 Z" id="路径"></path>
+            </g>
+        </g>
+        <g id="编组" transform="translate(8.000000, 9.000000)" fill="#0052D9">
+            <g id="电脑">
+                <path d="M-7.10542736e-15,0 L16,0 L16,0.868044275 L16,10.0095067 L16,10.9956665 L-7.10542736e-15,10.9956665 L-7.10542736e-15,10.0095067 L-7.10542736e-15,0.865812799 L-7.10542736e-15,0 Z M1.98010254,8.99864195 L14.0179488,9.03967285 L14.0179488,2.00445557 L1.98010254,2.00445557 L1.98010254,8.99864195 Z" id="形状" fill-rule="nonzero"></path>
+                <rect id="矩形" x="3" y="4" width="2" height="3"></rect>
+                <rect id="矩形备份-2" x="11" y="4" width="2" height="3"></rect>
+                <rect id="矩形备份" x="7" y="5" width="2" height="2"></rect>
+                <rect id="矩形" x="0" y="12" width="16" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

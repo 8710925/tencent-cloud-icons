@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>数据库一体机 TData-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="数据库一体机-TData-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(2.000000, 2.000000)" fill="#0052D9">
+            <path d="M20,26 L20,25 L14,25 L14,14 L28,14 L28,25 L22,25 L22,26 L25,26 L25,28 L17,28 L17,26 L20,26 Z M16,22 L16,23 L26,23 L26,22 L16,22 Z M16,16 L16,20 L26,20 L26,16 L16,16 Z" id="Combined-Shape"></path>
+            <path d="M2,16.8 C3.8,18 6.8,18.8 10.2,19 C10.3,18.3 10.5,17.7 10.8,17 C5.8,16.8 2,15.5 2,14 L2,7.8 C4.1,9.1 7.8,10 12,10 C16.2,10 19.9,9.1 22,7.8 L22,10.1 C22.7,10.2 23.4,10.3 24,10.5 L24,5 C24,2.2 18.6,0 12,0 C5.4,0 0,2.2 0,5 L0,23 L2,23 L2,16.8 Z M12,2 C17.5,2 22,3.3 22,5 C22,6.7 17.5,8 12,8 C6.5,8 2,6.7 2,5 C2,3.3 6.5,2 12,2 Z" id="Shape"></path>
+            <path d="M2,23 L0,23 C0,25.8 5.4,28 12,28 C12.2,28 12.3,28 12.5,28 C12,27.4 11.6,26.7 11.2,26 C6.1,25.9 2,24.6 2,23 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>48-blue</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="48-blue" stroke="#0052D9">
+            <circle id="椭圆形" stroke-width="2" cx="16" cy="16" r="15"></circle>
+            <polyline id="路径" stroke-width="2" stroke-linecap="round" points="7.10494792 9.9578125 12.5859375 9.9578125 19.6544271 22.1309896 24.092535 22.1309896"></polyline>
+            <polyline id="路径" stroke-width="2" stroke-linecap="round" transform="translate(15.867188, 16.044401) scale(1, -1) translate(-15.867188, -16.044401) " points="7.10494792 9.9578125 12.5859375 9.9578125 19.6544271 22.1309896 24.6294271 22.1309896"></polyline>
+            <polyline id="路径-6" stroke-linecap="round" points="22.8645242 7.4304267 25.3205458 9.9578125 22.8645242 12.3692068"></polyline>
+            <polyline id="路径-6" stroke-linecap="round" points="22.8645242 19.4304267 25.3205458 21.9578125 22.8645242 24.3692068"></polyline>
+        </g>
+    </g>
+</svg>

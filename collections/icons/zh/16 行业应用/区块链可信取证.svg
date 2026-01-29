@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>线32蓝</title>
+    <desc>Created with Sketch.</desc>
+    <g id="线32蓝" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(1.000000, 0.000000)" stroke="#0052D9" stroke-width="2">
+            <path d="M14.652,1 C9.56084824,1 4.8470404,2.65194412 1,5.94336187 C1,16.3512368 6.46868061,25.4750128 14.6518636,30.5131087 C22.834527,25.4750295 28.304,16.3512541 28.2997111,5.45586052 C24.456774,2.6521593 19.7432081,1 14.652,1 Z" id="Path"></path>
+            <path d="M7.92,25.344 C15.84,22.88 19.8,19.272 19.8,14.52 C19.8,10.56 17.16,8.58 14.52,8.58 C11.88,8.58 9.24,10.56 9.24,14.52 C9.24,18.48 12.34,20.34 13,21" id="路径-10"></path>
+            <path d="M17.3709411,22.5459775 L20.4486434,25.8175777 L17.3709411,22.5459775 Z" id="路径-11" transform="translate(18.909792, 24.181778) rotate(-15.000000) translate(-18.909792, -24.181778) "></path>
+        </g>
+    </g>
+</svg>

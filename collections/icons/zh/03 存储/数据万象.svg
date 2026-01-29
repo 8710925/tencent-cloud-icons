@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>数据万象-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="数据万象-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(1.000000, 3.000000)" fill="#0052D9">
+            <path d="M16.7375133,13.836948 L18.7254959,11 L23.4342972,17.7411121 L21.0086838,17.7435127 L18.7254959,14.4875873 L17.9472692,15.5993398 L19.4186878,17.742926 L16.8947054,17.7435127 L12.7148595,11.6550667 L8.52905284,17.7435127 L6,17.7426867 L6.12548857,17.5612211 L12.7148595,7.97668156 L16.7375133,13.836948 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            <path d="M19.6434686,10.8823154 C19.8662378,10.695127 20,10.417875 20,10.1165844 C20,9.56429967 19.5522847,9.11658442 19,9.11658442 C18.4477153,9.11658442 18,9.56429967 18,10.1165844 L16,10.1165844 C16,8.45973017 17.3431458,7.11658442 19,7.11658442 C20.6568542,7.11658442 22,8.45973017 22,10.1165844 C22,11.0808542 21.5405669,11.9660179 20.7902891,12.5241017 L19.6434686,10.8823154 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            <rect id="Rectangle-140" x="5" y="1" width="20" height="2"></rect>
+            <rect id="Rectangle-140-Copy" x="5" y="23.0001808" width="20" height="2"></rect>
+            <circle id="Oval-69" cx="2" cy="2" r="2"></circle>
+            <circle id="Oval-69-Copy" cx="28" cy="2" r="2"></circle>
+            <circle id="Oval-69-Copy-2" cx="28" cy="24" r="2"></circle>
+            <circle id="Oval-69-Copy-3" cx="2" cy="24" r="2"></circle>
+            <rect id="Rectangle-141" x="1" y="5" width="2" height="16"></rect>
+            <rect id="Rectangle-141-Copy" x="27" y="5" width="2" height="16"></rect>
+        </g>
+    </g>
+</svg>

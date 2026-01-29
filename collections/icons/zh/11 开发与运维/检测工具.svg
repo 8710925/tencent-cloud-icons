@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>检测工具-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="检测工具-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(1.000000, 4.000000)" fill="#0052D9">
+            <g id="XMLID_1397_">
+                <g id="XMLID_27_">
+                    <path d="M28,21.992 L28,22 L2,22 L2,7 L28,7 L28,18.021 L30,18.021 L30,0 L0,0 L0,24 L30,24 L30,21.992 L28,21.992 Z M2,2 L28,2 L28,5 L2,5 L2,2 Z" id="XMLID_28_"></path>
+                </g>
+            </g>
+            <rect id="XMLID_908_" x="6.008" y="10" width="8" height="2"></rect>
+            <rect id="XMLID_1194_" x="6.008" y="13" width="8" height="2"></rect>
+            <polygon id="XMLID_1200_" points="6.008 16.021 11 16.021 11 18.021 6.008 18.021"></polygon>
+            <polygon id="XMLID_1200_" transform="translate(22.976045, 16.472045) rotate(45.000000) translate(-22.976045, -16.472045) " points="20.9760453 15.4720453 24.9760453 15.4720453 24.9760453 17.4720453 20.9760453 17.4720453"></polygon>
+            <path d="M22.929,11.004 C21.562,9.637 19.346,9.637 17.979,11.004 C16.612,12.371 16.612,14.587 17.979,15.954 C19.346,17.321 21.562,17.321 22.929,15.954 C24.296,14.587 24.296,12.371 22.929,11.004 Z M19.393,14.54 C18.807,13.954 18.807,13.004 19.393,12.419 C19.979,11.833 20.929,11.833 21.514,12.419 C22.1,13.005 22.1,13.955 21.514,14.54 C20.929,15.126 19.979,15.126 19.393,14.54 Z" id="XMLID_1510_"></path>
+        </g>
+    </g>
+</svg>

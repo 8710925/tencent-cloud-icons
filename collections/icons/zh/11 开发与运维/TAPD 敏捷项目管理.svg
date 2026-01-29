@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>TAPD敏捷项目管理-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="TAPD敏捷项目管理-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(1.000000, 4.000000)" fill="#0052D9">
+            <g id="Group-13">
+                <rect id="Rectangle-57" x="0" y="0" width="2" height="24"></rect>
+                <rect id="Rectangle-57-Copy" x="28" y="0" width="2" height="24"></rect>
+                <rect id="Rectangle-58" x="0" y="0" width="6" height="2"></rect>
+                <rect id="Rectangle-58-Copy-2" x="0" y="22" width="6" height="2"></rect>
+                <rect id="Rectangle-58-Copy" x="24" y="0" width="6" height="2"></rect>
+                <rect id="Rectangle-58-Copy-3" x="24" y="22" width="6" height="2"></rect>
+            </g>
+            <g id="Group-14" transform="translate(3.000000, 8.000000)">
+                <rect id="Rectangle-67" x="0" y="0" width="6" height="2"></rect>
+                <rect id="Rectangle-67-Copy" x="8" y="0" width="3" height="2"></rect>
+                <rect id="Rectangle-67-Copy-3" x="13" y="0" width="4" height="2"></rect>
+                <rect id="Rectangle-67-Copy-5" x="19" y="0" width="4" height="2"></rect>
+                <rect id="Rectangle-67-Copy-6" x="19" y="6" width="4" height="2"></rect>
+                <rect id="Rectangle-67-Copy-4" x="13" y="4" width="4" height="2"></rect>
+                <polygon id="Rectangle-67-Copy-2" points="7 4 12 4 12 6 7 6"></polygon>
+                <rect id="Rectangle-68" x="2" y="2" width="2" height="6"></rect>
+                <rect id="Rectangle-68-Copy" x="7" y="1" width="2" height="7"></rect>
+                <rect id="Rectangle-68-Copy-2" x="10" y="1" width="2" height="7"></rect>
+                <rect id="Rectangle-68-Copy-4" x="16" y="1" width="2" height="4"></rect>
+                <rect id="Rectangle-68-Copy-6" x="22" y="1" width="2" height="6"></rect>
+                <rect id="Rectangle-68-Copy-3" x="13" y="0" width="2" height="8"></rect>
+                <rect id="Rectangle-68-Copy-5" x="19" y="0" width="2" height="8"></rect>
+                <circle id="Oval-27" cx="23" cy="1" r="1"></circle>
+                <circle id="Oval-27-Copy-2" cx="17" cy="1" r="1"></circle>
+                <circle id="Oval-27-Copy-4" cx="11" cy="1" r="1"></circle>
+                <circle id="Oval-27-Copy-5" cx="8" cy="1" r="1"></circle>
+                <circle id="Oval-27-Copy-3" cx="17" cy="5" r="1"></circle>
+                <circle id="Oval-27-Copy" cx="23" cy="7" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

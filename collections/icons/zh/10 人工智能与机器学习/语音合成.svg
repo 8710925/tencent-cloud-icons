@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>语音合成-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="语音合成-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(1.000000, 3.000000)" fill="#0052D9">
+            <g id="Group-15">
+                <rect id="Rectangle-78" x="2" y="1" width="27" height="2"></rect>
+                <rect id="Rectangle-78-Copy" x="1" y="23" width="28" height="2"></rect>
+                <rect id="Rectangle-79" x="1" y="8" width="2" height="17"></rect>
+                <rect id="Rectangle-79-Copy" x="27" y="1" width="2" height="17"></rect>
+                <circle id="Oval-30" cx="2" cy="2" r="2"></circle>
+                <circle id="Oval-30-Copy" cx="28" cy="24" r="2"></circle>
+            </g>
+        </g>
+        <path d="M21.3904303,20.4783178 L20.0354351,19.0072678 C20.9371985,18.1766468 21.4586991,17.0126478 21.4586991,15.7625707 C21.4586991,14.4957388 20.9229932,13.3175318 20,12.4855856 L21.3390427,11 C22.6784887,12.2073188 23.4586991,13.9232776 23.4586991,15.7625707 C23.4586991,17.5774836 22.6991233,19.2728709 21.3904303,20.4783178 Z" id="Oval-33" fill="#0052D9" fill-rule="nonzero"></path>
+        <g id="Group" transform="translate(8.000000, 8.000000)" stroke="#0052D9" stroke-width="2">
+            <rect id="Rectangle-85" x="1" y="5" width="3" height="6"></rect>
+            <path d="M4,4.61803399 L4,11.381966 L10,14.381966 L10,1.61803399 L4,4.61803399 Z" id="Rectangle-86"></path>
+        </g>
+    </g>
+</svg>

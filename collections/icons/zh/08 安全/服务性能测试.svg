@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>压测大师 LM-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="压测大师-LM-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group-20" transform="translate(1.000000, 3.000000)" fill="#0052D9">
+            <g id="Group-15">
+                <rect id="Rectangle-78" x="2" y="1" width="27" height="2"></rect>
+                <rect id="Rectangle-78-Copy" x="1" y="23" width="28" height="2"></rect>
+                <rect id="Rectangle-79" x="1" y="8" width="2" height="17"></rect>
+                <rect id="Rectangle-79-Copy" x="27" y="1" width="2" height="17"></rect>
+                <circle id="Oval-30" cx="2" cy="2" r="2"></circle>
+                <circle id="Oval-30-Copy" cx="29" cy="24" r="2"></circle>
+            </g>
+            <path d="M15,16 L11.9411765,9.11764706 L9,15 L6,15 L6,13 L8,13 L11,7 L13,7 L16.0588235,13.8823529 L19,8 L23,8 L23,10 L20,10 L17,16 L15,16 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            <path d="M10.9375,18.8125 L15,5 L17,5 L20.2328767,17.1232877 L22,13 L24,13 L26,13 L26,15 L23.1428571,15 L21,20 L19,20 L15.951049,8.56643357 L12,22 L10,22 L8.66666667,18 L4,18 L4,16 L10,16 L10.9375,18.8125 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

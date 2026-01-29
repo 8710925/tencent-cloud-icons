@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>机器翻译-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="机器翻译-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group-15" transform="translate(1.000000, 3.000000)" fill="#0052D9">
+            <rect id="Rectangle-182" fill-rule="nonzero" x="4" y="8" width="6" height="2"></rect>
+            <rect id="Rectangle-182-Copy-4" fill-rule="nonzero" x="20" y="8" width="6" height="2"></rect>
+            <rect id="Rectangle-182-Copy" fill-rule="nonzero" transform="translate(7.000000, 13.000000) rotate(-270.000000) translate(-7.000000, -13.000000) " x="2" y="12" width="10" height="2"></rect>
+            <rect id="Rectangle-182-Copy-5" fill-rule="nonzero" transform="translate(23.000000, 13.000000) rotate(-270.000000) translate(-23.000000, -13.000000) " x="18" y="12" width="10" height="2"></rect>
+            <rect id="Rectangle-182-Copy-2" fill-rule="nonzero" transform="translate(12.000000, 13.000000) rotate(-270.000000) translate(-12.000000, -13.000000) " x="7" y="12" width="10" height="2"></rect>
+            <rect id="Rectangle-182-Copy-3" fill-rule="nonzero" transform="translate(18.000000, 13.000000) rotate(-270.000000) translate(-18.000000, -13.000000) " x="13" y="12" width="10" height="2"></rect>
+            <path d="M18,8 L18.8574611,8.51454884 L14.9994587,14.9436506 L11.1424752,8.51444267 L12,8 L13.1661471,8 L14.9996993,11.0563494 L16.8337663,8 L18,8 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            <rect id="Rectangle-79" x="1" y="8" width="2" height="17"></rect>
+            <rect id="Rectangle-78" x="2" y="1" width="27" height="2"></rect>
+            <rect id="Rectangle-78-Copy" x="1" y="23" width="28" height="2"></rect>
+            <rect id="Rectangle-79-Copy" x="27" y="1" width="2" height="17"></rect>
+            <circle id="Oval-30" cx="2" cy="2" r="2"></circle>
+            <circle id="Oval-30-Copy" cx="28" cy="24" r="2"></circle>
+        </g>
+    </g>
+</svg>

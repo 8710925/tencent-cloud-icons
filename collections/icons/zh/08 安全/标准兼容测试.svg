@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>标准兼容测试 SCT-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="标准兼容测试-SCT-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="_编组_" transform="translate(5.000000, 1.000000)" fill="#0052D9" fill-rule="nonzero">
+            <path d="M22,24 L22,0 L0,0 L0,30 L22,30 L22,28 L2,28 L2,2 L20,2 L20,24 L22,24 Z M13,24 L13,22 L9,22 L9,24 L13,24 Z" id="Shape"></path>
+        </g>
+        <polyline id="Path-13" stroke="#0052D9" stroke-width="2" fill-rule="nonzero" points="9 12 12 12 15 8 18 15.0121279 20 12 23 12"></polyline>
+    </g>
+</svg>

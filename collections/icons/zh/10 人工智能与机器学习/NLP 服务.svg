@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>自然语言处理-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="自然语言处理-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(1.000000, 3.000000)" fill="#0052D9">
+            <g id="Group-15">
+                <rect id="Rectangle-78" x="2" y="1" width="27" height="2"></rect>
+                <rect id="Rectangle-78-Copy" x="1" y="23" width="28" height="2"></rect>
+                <rect id="Rectangle-79" x="1" y="8" width="2" height="17"></rect>
+                <rect id="Rectangle-79-Copy" x="27" y="1" width="2" height="17"></rect>
+                <circle id="Oval-30" cx="2" cy="2" r="2"></circle>
+                <circle id="Oval-30-Copy" cx="28" cy="24" r="2"></circle>
+            </g>
+        </g>
+        <path d="M16.2,18.90403 L11,23.5262522 L11,21.7484744 L8,23.5262522 L8,11.7929189 L15,8.47440035 L15.0803623,8.43630269 L16.0006882,8 L16.0002217,8.00648043 L16.0066477,8.00347776 L24,11.7929189 L24,23.5262522 L16.2,18.90403 Z M15,17.0533107 L15,11.4025967 L13,12.8248189 L13,18.2384959 L15,17.0533107 Z M11,12.5840617 L10,13.0581358 L10,20.0162737 L11,19.4236811 L11,12.5840617 Z M17,10.6877654 L17,17.0533107 L22,20.0162737 L22,13.0581358 L17,10.6877654 Z" id="Combined-Shape" fill="#0052D9" fill-rule="nonzero"></path>
+    </g>
+</svg>

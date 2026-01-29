@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>32-蓝 </title>
+    <desc>Created with Sketch.</desc>
+    <g id="32-蓝-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组-2">
+            <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+            <g id="分组" transform="translate(1.000000, 4.000000)">
+                <rect id="矩形" stroke="#0052D9" stroke-width="2" x="1" y="1" width="28" height="18"></rect>
+                <path d="M11.0637353,8.28395036 L10.9472777,8.92943432 L10.3088346,9.07977482 C8.96619129,9.39594029 8,10.6007906 8,12 C8,13.6568542 9.34314575,15 11,15 L19,15 C20.6568542,15 22,13.6568542 22,12 C22,10.6007906 21.0338087,9.39594029 19.6911654,9.07977482 L19.0527223,8.92943432 L18.9362647,8.28395036 C18.5955043,6.39523354 16.9426465,5 15,5 C13.0573535,5 11.4044957,6.39523354 11.0637353,8.28395036 Z" id="合并形状" stroke="#0052D9" stroke-width="2"></path>
+                <rect id="矩形" fill="#0052D9" x="9" y="22" width="12" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
