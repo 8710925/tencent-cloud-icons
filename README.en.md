@@ -6,7 +6,7 @@
 
 ### Background
 
-In many well-known diagramming software (such as draw.io, Lucidchart, Gliffy, ProcessOn, etc.), there is no built-in Tencent Cloud official vector icons.
+In many well-known diagramming software (such as draw.io, Lucidchart, Gliffy etc.), there is no built-in Tencent Cloud official vector icons.
 So I collected a complete set of Tencent Cloud vector icons and generated the draw.io icon library.
 
 ### Screenshot of draw.io Custom library Icons
@@ -22,6 +22,10 @@ So I collected a complete set of Tencent Cloud vector icons and generated the dr
 Links: [Tencent Cloud Design Center](https://cloud.tencent.com/act/event/icons) | [Categories of Tencent Cloud Products](https://www.tencentcloud.com/product)
 
 Color Code: `#0052D9`
+
+### Related Tools
+
+- [icon-organizer](./skills/icon-organizer/) - Automatically organize cloud product icon files into categorized folders
 
 ### Order of Icons in draw.io
 
