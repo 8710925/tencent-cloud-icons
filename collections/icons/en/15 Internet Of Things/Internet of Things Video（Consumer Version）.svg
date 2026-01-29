@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>消费版-32-蓝</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消费版-32-蓝">
+            <circle id="椭圆形备份-3" stroke="#0052D9" stroke-width="2" cx="16" cy="14" r="11"></circle>
+            <circle id="椭圆形备份-4" stroke="#0052D9" stroke-width="2" cx="16" cy="14" r="7"></circle>
+            <circle id="椭圆形备份-5" fill="#0052D9" cx="14" cy="12" r="2"></circle>
+            <rect id="矩形备份-3" fill="#0052D9" x="6" y="28" width="20" height="2"></rect>
+            <polygon id="矩形备份-7" fill="#0052D9" transform="translate(9.741181, 25.965926) rotate(-75.000000) translate(-9.741181, -25.965926) " points="6.74118095 24.9659258 12.741181 24.9659258 12.741181 26.9659258 6.74118095 26.9659258"></polygon>
+            <polygon id="矩形备份-8" fill="#0052D9" transform="translate(22.258819, 25.965926) scale(-1, 1) rotate(-75.000000) translate(-22.258819, -25.965926) " points="19.258819 24.9659258 25.258819 24.9659258 25.258819 26.9659258 19.258819 26.9659258"></polygon>
+        </g>
+    </g>
+</svg>

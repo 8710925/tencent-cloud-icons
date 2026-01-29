@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>品牌经营管家BM-32px</title>
+    <g id="品牌经营管家BM-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0.0543212891" y="0.0588531494" width="32" height="32"></rect>
+        <g id="编组" transform="translate(9.000000, 14.000000)"></g>
+        <g id="编组-3" transform="translate(9.000000, 16.000000)"></g>
+        <g id="Group-15" transform="translate(1.000000, 3.000000)" fill="#0052D9">
+            <g id="编组-2" transform="translate(4.597186, 8.019008)">
+                <g id="Group-37" transform="translate(14.987949, 0.000000)" fill-rule="nonzero">
+                    <rect id="Rectangle-182-Copy-4" transform="translate(1.000000, 5.000000) rotate(-270.000000) translate(-1.000000, -5.000000) " x="-4" y="4" width="10" height="2"></rect>
+                    <rect id="Rectangle-182-Copy-5" transform="translate(5.000000, 5.000000) rotate(-270.000000) translate(-5.000000, -5.000000) " x="0" y="4" width="10" height="2"></rect>
+                    <rect id="Rectangle-182-Copy-6" transform="translate(3.000000, 1.000000) rotate(-270.000000) translate(-3.000000, -1.000000) " x="2" y="0" width="2" height="2"></rect>
+                    <rect id="Rectangle-182-Copy-7" transform="translate(3.000000, 5.000000) rotate(-270.000000) translate(-3.000000, -5.000000) " x="2" y="4" width="2" height="2"></rect>
+                </g>
+                <path d="M4.09254928,0 C5.14500501,0 6,0.84345679 6,1.87950617 L6,8.11950617 C6,9.15753086 5.14500501,10 4.09254928,10 L0,10 L0,0 L4.09254928,0 Z M3.995,6 L2,6 L2,8.024 L3.99532242,8.02469136 L3.995,6 Z M3.99532242,1.97530864 L2,1.975 L2,4 L3.995,4 L3.99532242,1.97530864 Z" id="Shape-2" fill-rule="nonzero"></path>
+                <polygon id="_复合路径_-path" points="14 10 14 0 12 0 10.5 5 9 0 7 0 7 10 9 10 9 6.25 10.5 10 12 6.25 12 10"></polygon>
+            </g>
+            <rect id="Rectangle-79" x="1" y="8" width="2" height="17"></rect>
+            <rect id="Rectangle-78" x="2" y="1" width="27" height="2"></rect>
+            <rect id="Rectangle-78-Copy" x="1" y="23" width="28" height="2"></rect>
+            <rect id="Rectangle-79-Copy" x="27" y="1" width="2" height="17"></rect>
+            <circle id="Oval-30" cx="2" cy="2" r="2"></circle>
+            <circle id="Oval-30-Copy" cx="28" cy="24" r="2"></circle>
+        </g>
+    </g>
+</svg>

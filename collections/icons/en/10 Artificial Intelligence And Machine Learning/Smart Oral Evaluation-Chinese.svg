@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>智聆口语评测（中文版）-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="智聆口语评测（中文版）-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(1.000000, 3.000000)" fill="#0052D9">
+            <path d="M10,25 L1,25 L1,8 L3,8 L3,23 L10,23 L10,25 Z" id="Combined-Shape"></path>
+            <path d="M27.0120508,3.00018082 L3.73205081,3.00018082 C3.27944513,3.78411685 2.35672894,4.16631841 1.48236191,3.93203247 C0.607994882,3.69774653 -3.36397576e-14,2.90539218 -3.37507799e-14,2.00018082 C-3.38618023e-14,1.09496946 0.607994882,0.302615105 1.48236191,0.0683291662 C2.35672894,-0.165956773 3.27944513,0.216244788 3.73205081,1.00018082 L29.0120508,1.00018082 L29.0120508,14.0001808 L27.0120508,14.0001808 L27.0120508,3.00018082 Z" id="_复合路径_-path"></path>
+            <rect id="Rectangle-196" x="14" y="8" width="2" height="6"></rect>
+            <rect id="Rectangle-196-Copy" x="10" y="10" width="2" height="5"></rect>
+            <rect id="Rectangle-196-Copy-2" x="18" y="10" width="2" height="4"></rect>
+            <rect id="Rectangle-196-Copy-3" x="22" y="11" width="2" height="3"></rect>
+            <rect id="Rectangle-196-Copy-4" x="6" y="11" width="2" height="4"></rect>
+            <rect id="Rectangle-196-Copy-5" x="21" y="16" width="2" height="10"></rect>
+            <rect id="Rectangle-196-Copy-6" x="27" y="16" width="2" height="10"></rect>
+            <path d="M29,26 L26.7735027,26 L21,16 L23.3094011,16 L29,25.8564065 L29,26 Z" id="Combined-Shape"></path>
+            <path d="M17.3596367,23 L19.6255607,23 C18.9311597,24.7659048 17.3452871,26 15.5,26 C13.0147186,26 11,23.7614237 11,21 C11,18.2385763 13.0147186,16 15.5,16 C17.3452871,16 18.9311597,17.2340952 19.6255607,19 L17.3596367,19 C16.8937988,18.3807769 16.2206393,18 15.5,18 C14.1690184,18 13,19.2989093 13,21 C13,22.7010907 14.1690184,24 15.5,24 C16.2206393,24 16.8937988,23.6192231 17.3596367,23 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

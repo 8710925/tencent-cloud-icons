@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>弹性公网 IPv6 32_blue</title>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-550.000000, -146.000000)">
+            <g id="弹性公网-IPv6" transform="translate(550.000000, 146.001397)">
+                <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+                <path d="M16.062,0 C23.873,0 30.377,5.598 31.781,13 L29.74,13 C28.367,6.71 22.764,2 16.062,2 C8.33,2 2.062,8.268 2.062,16 C2.062,23.732 8.33,30 16.062,30 C23.115,30 28.949,24.785 29.92,18.001 L31.938,18.001 C30.954,25.893 24.221,32 16.062,32 C7.225,32 0.062,24.837 0.062,16 C0.062,7.163 7.225,0 16.062,0 Z M9,12 L9,14 L8,14 L8,18 L9,18 L9,20 L5,20 L5,18 L6,18 L6,14 L5,14 L5,12 L9,12 Z M15,12 L15,17 L12,17 L12,20 L10,20 L10,12 L15,12 Z M27,12 L27,14 L24,14 L24,15 L27,15 L27,20 L22,20 L22,12 L27,12 Z M18,15 L18.5,16.667 L19,15 L21,15 L19.5,20 L17.5,20 L16,15 L18,15 Z M25,17 L24,17 L24,18 L25,18 L25,17 Z M13,14 L12,14 L12,15 L13,15 L13,14 Z" id="形状结合" fill="#0052D9" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

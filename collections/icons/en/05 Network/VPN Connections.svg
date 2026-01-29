@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>VPN 连接-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="VPN-连接-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" fill="#0052D9">
+            <g id="Group-4" transform="translate(9.000000, 8.000000)">
+                <polygon id="Rectangle-26-Copy" points="12 4 14 4 14 9 12 8.17198879"></polygon>
+                <path d="M6.82461991,0.00636922311 L6.83892542,-6.09512441e-14 L6.84600132,0.0158927206 L13.9945979,3.19995117 L13.9945979,4.04829407 L13.4649814,5.1521186 L6.82462283,2.19564048 L5.68434189e-14,5.23415833 L0.000597567839,3.04461972 L6.80324794,0.0158846388 L6.81032023,1.23234756e-14 L6.82461991,0.00636922311 Z" id="Combined-Shape"></path>
+                <polygon id="Rectangle-27-Copy-4" transform="translate(2.969943, 6.452472) scale(-1, -1) rotate(28.000000) translate(-2.969943, -6.452472) " points="0.137983927 5.45247188 4.58715552 5.45247188 5.80190224 5.45247188 5.80190224 7.45247188 1.20400781 7.45247188"></polygon>
+                <polygon id="Rectangle-28" points="0.101680519 3 2 3 2 6 0 6 0 3.04056207"></polygon>
+            </g>
+            <g id="Group-4-Copy" transform="translate(16.000000, 20.500000) scale(-1, -1) translate(-16.000000, -20.500000) translate(9.000000, 16.000000)">
+                <polygon id="Rectangle-26-Copy" points="12 4 14 4 14 9 12 8.16454315"></polygon>
+                <path d="M6.82461991,0.00636922311 L6.83892542,-6.09512441e-14 L6.84600132,0.0158927206 L13.9945979,3.19995117 L13.9945979,4.04829407 L13.4649814,5.1521186 L6.82462283,2.19564048 L5.68434189e-14,5.23415833 L0.000597567839,3.04461972 L6.80324794,0.0158846388 L6.81032023,1.23234756e-14 L6.82461991,0.00636922311 Z" id="Combined-Shape"></path>
+                <polygon id="Rectangle-27-Copy-4" transform="translate(2.969943, 6.452472) scale(-1, -1) rotate(28.000000) translate(-2.969943, -6.452472) " points="0.137983927 5.45247188 4.58715552 5.45247188 5.80190224 5.45247188 5.80190224 7.45247188 1.20400781 7.45247188"></polygon>
+                <polygon id="Rectangle-28" points="0.101680519 3 2 3 2 6 0 6 0 3.04056207"></polygon>
+            </g>
+            <rect id="Rectangle-28-Copy-2" x="15" y="15" width="2" height="3"></rect>
+            <path d="M31.7193022,13.0004945 L29.6779284,13.0004945 C28.3047737,6.70988283 22.7024129,2 16,2 C8.2680135,2 2,8.2680135 2,16 C2,23.7319865 8.2680135,30 16,30 C23.0527724,30 28.8874794,24.7848417 29.8581515,18.0004945 L31.8761508,18.0004945 C30.8917351,25.8928783 24.1590649,32 16,32 C7.163444,32 -2.0250468e-13,24.836556 -2.0250468e-13,16 C-2.0250468e-13,7.163444 7.163444,0 16,0 C23.8113418,0 30.3152783,5.59766728 31.7193022,13.0004945 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>消息队列 TDMQ-32</title>
+    <g id="消息队列-TDMQ-32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(2.000000, 2.000000)" fill="#0052D9" fill-rule="nonzero">
+            <polygon id="形状结合" points="28 0 28 2 5 2 2 5 2 23 5 26 23 26 26 23 26 5 28 5 28 24 24 28 4 28 0 24 0 4 4 0"></polygon>
+            <g transform="translate(6.000000, 6.000000)">
+                <path d="M5,4 L5,6 L0,6 L0,4 L5,4 Z M16,4 L16,6 L11,6 L11,4 L16,4 Z" id="形状结合"></path>
+                <polygon id="路径-3" points="16 9 16 11 12.786 10.999 4.78679623 16 0 16 0 14 4.215 13.999 12.2132038 9"></polygon>
+                <polygon id="路径-4" points="5.19782839 0 10.8021716 0 12.802 9 16 9 16 11 11.1978284 11 9.197 2 6.802 2 4.80217161 11 0 11 0 9 3.197 9"></polygon>
+            </g>
+        </g>
+        <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+    </g>
+</svg>

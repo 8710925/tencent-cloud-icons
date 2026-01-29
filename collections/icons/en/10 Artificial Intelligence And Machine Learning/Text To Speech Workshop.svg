@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>32blue</title>
+    <g id="32blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M31,30 L1,30 L1,2 L31,2 L31,4 L3,4 L3,24 L29,24 L29,6 L31,6 L31,30 Z M29,28 L29,26 L3,26 L3,28 L29,28 Z" id="形状" fill="#0052D9"></path>
+        <path d="M7.20502398,8.5548227 C7.07168342,8.74141877 7,8.96502568 7,9.19436779 L7,18.8099576 C7,19.4174708 7.49248678,19.9099576 8.1,19.9099576 C8.32934211,19.9099576 8.55294901,19.8382742 8.73954509,19.7049336 L15.4675478,14.8971387 C15.9618294,14.5439277 16.0761898,13.8568992 15.7229788,13.3626176 C15.6093392,13.2208263 15.6093392,13.2208263 15.4675478,13.1071867 L8.73954509,8.29939177 C8.28056932,7.97141013 7.65539851,8.04658947 7.28562961,8.45475227 L7.20502398,8.5548227 Z M9,10.944 L13.279,14.002 L9,17.059 L9,10.944 Z" id="路径-6" fill="#0052D9" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#0052D9" fill-rule="nonzero" x="17" y="8" width="8" height="2"></rect>
+        <rect id="Rectangle" fill="#0052D9" fill-rule="nonzero" x="17" y="13" width="8" height="2"></rect>
+        <rect id="Rectangle" fill="#0052D9" fill-rule="nonzero" x="17" y="18" width="8" height="2"></rect>
+        <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+    </g>
+</svg>

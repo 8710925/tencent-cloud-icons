@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TDMQ RabbitMQ-32</title>
+    <g id="TDMQ-RabbitMQ-32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="形状结合" fill="#0052D9" fill-rule="nonzero" points="30 2 30 4 7 4 4 7 4 25 7 28 25 28 28 25 28 7 30 7 30 26 26 30 6 30 2 26 2 6 6 2"></polygon>
+        <g id="RabbitMQ-16px备份-2" transform="translate(8.000000, 8.000000)" fill="#0052D9" fill-rule="nonzero">
+            <path d="M16,4 L0,4 L0,16 L16,16 L16,4 Z M14,6 L14,14 L2,14 L2,6 L14,6 Z" id="路径-2"></path>
+            <polygon id="路径-2备份" points="9 8.5 9 11.5 12 11.5 12 8.5"></polygon>
+            <polygon id="路径-2备份-2" points="0 0 0 5 2 5 2 0"></polygon>
+            <polygon id="路径-2备份-3" points="6 0 6 5 8 5 8 0"></polygon>
+        </g>
+        <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>腾讯客户端性能分析 QAPM-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="腾讯客户端性能分析-QAPM-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(5.000000, 1.000000)" fill="#0052D9">
+            <g id="_编组_" fill-rule="nonzero">
+                <path d="M22,24 L22,0 L0,0 L0,30 L22,30 L22,28 L2,28 L2,2 L20,2 L20,24 L22,24 Z M13,24 L13,22 L9,22 L9,24 L13,24 Z" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-104" x="3" y="5" width="9" height="2"></rect>
+            <rect id="Rectangle-104-Copy" x="3" y="15" width="16" height="2"></rect>
+            <rect id="Rectangle-73" x="14" y="5" width="5" height="2"></rect>
+            <rect id="Rectangle-133" x="17" y="5" width="2" height="5"></rect>
+            <rect id="Rectangle-133-Copy" x="17" y="12" width="2" height="5"></rect>
+            <rect id="Rectangle-133-Copy-2" x="3" y="5" width="2" height="12"></rect>
+            <polygon id="Path-4" fill-rule="nonzero" points="11.4486526 10.4103507 5.71555583 15.7707434 4.34962578 14.3098412 11.484961 7.63836852 13.4360492 9.56083518 16.9176634 5.40367284 18.450961 6.68780618 13.5770001 12.5074764"></polygon>
+        </g>
+    </g>
+</svg>

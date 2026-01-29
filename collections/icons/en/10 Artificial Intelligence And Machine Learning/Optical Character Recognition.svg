@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>文字识别-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="文字识别-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group-2" transform="translate(1.000000, 3.000000)" fill="#0052D9">
+            <rect id="Rectangle-78" x="3" y="1" width="26" height="2"></rect>
+            <rect id="Rectangle-78-Copy" x="1" y="23" width="28" height="2"></rect>
+            <rect id="Rectangle-79" x="1" y="8" width="2" height="17"></rect>
+            <rect id="Rectangle-79-Copy" x="27" y="1" width="2" height="17"></rect>
+            <circle id="Oval-30" cx="2" cy="2" r="2"></circle>
+            <circle id="Oval-30-Copy" cx="28" cy="24" r="2"></circle>
+        </g>
+        <path d="M10,17 L10,23 L8,23 L8,11 C8,9.9 9.02857143,9 10.2857143,9 L13.7142857,9 C14.9714286,9 16,9.9 16,11 L16,23 L14,23 L14,17 L10,17 Z M10,15 L14,15 L14,11 L10,11 L10,15 Z M21.6666667,23 L19.3333333,23 C18.05,23 17,21.9480519 17,20.6623377 L17,19.7272727 C17,18.4415584 17,17 19,17 L22,17 L22,15 L17,15 C17.3333333,13.6666667 18.1111111,13 19.3333333,13 L21.6666667,13 C22.95,13 24,14.0519481 24,15.3376623 L24,20.6623377 C24,21.9480519 22.95,23 21.6666667,23 Z M19,19 L19,21 L22,21 L22,19 L19,19 Z" id="Combined-Shape" fill="#0052D9" fill-rule="nonzero"></path>
+    </g>
+</svg>

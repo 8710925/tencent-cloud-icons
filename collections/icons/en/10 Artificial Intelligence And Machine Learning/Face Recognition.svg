@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>人脸识别-32px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="人脸识别-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(0.000000, 3.000000)" fill="#0052D9">
+            <g id="Group-15">
+                <rect id="Rectangle-78" x="3" y="1" width="27" height="2"></rect>
+                <rect id="Rectangle-78-Copy" x="2" y="23" width="28" height="2"></rect>
+                <rect id="Rectangle-79" x="2" y="8" width="2" height="17"></rect>
+                <rect id="Rectangle-79-Copy" x="28" y="1" width="2" height="17"></rect>
+                <circle id="Oval-30" cx="2" cy="2" r="2"></circle>
+                <circle id="Oval-30-Copy" cx="29" cy="24" r="2"></circle>
+            </g>
+        </g>
+        <g id="Group" transform="translate(9.000000, 9.000000)" fill="#0052D9">
+            <path d="M2,14 L0,14 C0,11.239 2.239,9 5,9 L5,11 C3.346,11 2,12.346 2,14 Z M14,14 L12,14 C12,12.346 10.654,11 9,11 L9,9 C11.761,9 14,11.238 14,14 Z M9,11 L5,11 L5,9 L9,9 L9,11 Z M3,4 C3,1.791 4.791,0 7,0 C9.209,0 11,1.791 11,4 C11,6.209 9.209,8 7,8 C4.791,8 3,6.209 3,4 Z M7,5.969 C8.105,5.969 9,5.074 9,3.969 C9,2.864 8.105,1.969 7,1.969 C5.895,1.969 5,2.864 5,3.969 C5,5.074 5.895,5.969 7,5.969 Z" id="XMLID_2_"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>分布式身份-32px</title>
+    <g id="分布式身份-32px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(0.000000, 0.000000)">
+            <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="2.27373675e-13" y="0" width="32" height="32"></rect>
+            <g id="编组-8" transform="translate(0.000000, 0.000000)">
+                <rect id="Rectangle-Copy" fill="#0052D9" opacity="0" x="2.27373675e-13" y="0" width="32" height="32"></rect>
+                <path d="M16,0 C23.811235,0 30.3151005,5.59751424 31.7192447,13.000191 L29.677892,13.0003278 C28.3046747,6.70979962 22.7023537,2 16,2 C8.2680135,2 2,8.2680135 2,16 C2,23.7319865 8.2680135,30 16,30 C23.052652,30 28.8872801,24.7850199 29.8581018,18.0008423 L31.8761139,18.0007904 C30.8915668,25.8930309 24.1589629,32 16,32 C7.163444,32 2.48689958e-14,24.836556 2.48689958e-14,16 C2.48689958e-14,7.163444 7.163444,0 16,0 Z" id="Combined-Shape" fill="#0052D9" fill-rule="nonzero"></path>
+                <g id="编组-6" transform="translate(8.500000, 8.000000)" stroke="#0052D9" stroke-width="2">
+                    <polygon id="路径-14备份-6" points="7.42229089 0 4.5 1.71006289 4.5 5.19483787 7.42229089 7 10.4800379 5.19483787 10.5 1.71006289"></polygon>
+                    <polygon id="路径-14备份-7" points="2.92229089 8 0 9.71006289 0 13.1948379 2.92229089 15 5.98003794 13.1948379 6 9.71006289"></polygon>
+                    <polygon id="路径-14备份-8" points="11.9222909 8 9 9.71006289 9 13.1948379 11.9222909 15 14.9800379 13.1948379 15 9.71006289"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
